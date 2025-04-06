@@ -1,0 +1,26 @@
+[2025-03-12 10:56:14] user: hi
+[2025-03-12 10:56:14] assistant: It seems like you're trying to initiate a conversation or request assistance with an HR-related topic. Could you please provide more context or clarify what you need help with?
+
+If you're looking for general information or guidance on a specific HR topic, I can try to provide you with some resources or point you in the right direction.
+
+Please feel free to ask a question, and I'll do my best to assist you.
+
+Waiting for your question or topic...
+[2025-03-12 10:56:30] user: morning
+[2025-03-12 10:56:31] assistant: I'm here to assist you with any HR-related queries. However, I need more information to provide a specific solution. Could you please provide more context or clarify what you need help with? For example, are you looking for information on company policies, employee benefits, or something else?
+
+If you're unsure, I can suggest some common HR topics. Please let me know if any of these resonate with your query:
+
+* Employee onboarding
+* Time-off requests
+* Performance management
+* Company culture
+* Benefits and compensation
+
+If none of these topics relate to your query, please feel free to provide more context, and I'll do my best to assist you.
+
+####
+[2025-03-12 10:57:52] user: can you tell me how many sick leaves are let out 
+[2025-03-12 10:57:54] assistant: ##SUMMARY## - According to the company's sick leave policy, 10 paid sick leaves are allotted per calendar year.
+[2025-03-12 10:58:25] user: fetch my emp details
+[2025-03-12 10:58:27] assistant: ##SUMMARY## - Your employee details are: Employee ID: EMP001, Name: John Doe, Job Title: Software Engineer, Department: IT, Email: johndoe@example.com, Phone: 123-456-7890, Date of Joining: 2020-01-01.
